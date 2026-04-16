@@ -6,6 +6,11 @@ int nPanjang;
 int x;
 
 
+void input(){
+    
+}
+
+
 int main(){
 
 }
