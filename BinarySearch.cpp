@@ -58,7 +58,10 @@ void display(){
 }
 
 void binarySearch(){
-    
+    char ulang;
+    do{
+        cout << "\n==============================\n";
+    }while()
 }
 
 
