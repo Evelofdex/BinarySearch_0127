@@ -7,7 +7,17 @@ int x;
 
 
 void input(){
-    
+    while (true){
+        cout << "Masukan banyaknya elemed pada array (Maksimal 10): ";
+        cin >> nPanjang;
+
+        if (nPanjang <= 10){
+            break;
+        }
+        else{
+            
+        }
+    }
 }
 
 
